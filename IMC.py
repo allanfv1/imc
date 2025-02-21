@@ -56,4 +56,4 @@ elif IMC < 35:
 elif IMC < 40:
     print("Obesidade 2 (grave), procure ajuda médica.")
 else:
-    print("Obesidade 3 (severa), procure ajuda.")
+    print("Obesidade 3 (severa), procure ajuda médica.")
